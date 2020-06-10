@@ -1,4 +1,4 @@
-This s a basic Project where ARCore is used for surface mapping and then putting objects onto that surface. 
+This s a basic Unity 3D Project where ARCore is used for surface detection and mapping and then putting objects onto that surface. 
 
 
 To get a foundational understanding and overview of the AR trends and technology, I completed a course on Coursera named:
